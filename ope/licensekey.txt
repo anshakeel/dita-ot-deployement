@@ -1,0 +1,17 @@
+Registration_Name=ashakeel1111 @ gmail . com
+
+Company=-
+
+Category=Academic
+
+Component=XML-Editor, XSLT-Debugger, Saxon-SA
+
+Version=24
+
+Number_of_Licenses=1
+
+Date=09-22-2022
+
+Trial=31
+
+SGN=MCwCFBhnH2yKl3J8yYuBKRryt8sJ8NcKAhRSyEb6rhYBnmzTocppODzIlIubyg\=\=
